@@ -11,6 +11,6 @@ If the water level is low, run the request function:
 
     Play audio requesting water over the speaker
 
-    If water level doesnt change, repeat every 15 minutes
+    If water level doesnt change, repeat every 15 minutes    werer
 
 
