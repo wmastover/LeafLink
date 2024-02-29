@@ -1,0 +1,16 @@
+
+Connect A sensor to the Raspberry Pi.
+
+Check periodically the moisture of the water.
+
+If the water level is low, run the request function: 
+
+    Monitor volume on the microphone
+
+    When noise level goes above a certain volume (someone is in the room) 
+
+    Play audio requesting water over the speaker
+
+    If water level doesnt change, repeat every 15 minutes
+
+
