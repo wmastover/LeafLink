@@ -27,7 +27,7 @@ while True:
     # Check the sensor value
     if GPIO.input(channel):
         print("LED off")
-        sad
+        sad()
     else:
         print("LED on")
         happy()
